@@ -58,14 +58,13 @@ public class CardTrick {
      * A simple method to print out personal information. Follow the instructions to 
      * replace this information with your own.
      * @author Aakash Prajapati Jan 2022
-     * 
      */
     private static void printInfo() {
     
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
-        System.out.println("My name is Paul, but you can call me prof, Paul or sir");
+        System.out.println("My name is Aakash, but you can call me Akki, Aakash or sir");
         System.out.println();
         
         System.out.println("My career ambitions:");
